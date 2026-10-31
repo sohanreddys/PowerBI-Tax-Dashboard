@@ -1,0 +1,17 @@
+ClientId,ClientName,EntityType,Industry
+1,Apex Logistics,Corporation,Logistics
+2,Bluefin Retail,Corporation,Retail
+3,Cedar Health Systems,Corporation,Healthcare
+4,Delta Agro Foods,Partnership,Food & Agriculture
+5,Evergreen Energy,S-Corp,Energy
+6,Falcon Aerospace Parts,Corporation,Aerospace
+7,Granite Capital Partners,Partnership,Financial Services
+8,Harbor Hospitality,S-Corp,Hospitality
+9,Ironclad Manufacturing,Corporation,Manufacturing
+10,Juniper Software,Corporation,Technology
+11,Keystone Realty Fund,Partnership,Real Estate
+12,Lumen Media Group,S-Corp,Media
+13,Maple Pharma,Corporation,Pharma
+14,Northstar Telecom,Corporation,Telecom
+15,Orion Auto Components,Corporation,Automotive
+16,Pioneer Biotech,Corporation,Life Sciences
